@@ -1,5 +1,4 @@
-This is the DTMF decoder I made for The Snow Plow Show / Phone Losers of America.<br>
-Along with the rest of the prank call community<p>
+This is the DTMF decoder I made for The Snow Plow Show / Phone Losers of America, along with the rest of the prank call community.<p>
 
 The Snow Plow Show ~ https://www.snowplowshow.com/<br>
 The Phone Losers of America ~ https://www.phonelosers.com/<p>
