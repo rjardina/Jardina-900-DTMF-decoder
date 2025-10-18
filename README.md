@@ -1,4 +1,4 @@
-This is the DTMF decoder I made for The Snow Plow Show / Phone Losers of America, along with the rest of the prank call community.<p>
+This is the DTMF decoder I made for The Snow Plow Show / Phone Losers of America, and for the rest of the prank call community.<p>
 
 The Snow Plow Show ~ https://www.snowplowshow.com/<br>
 The Phone Losers of America ~ https://www.phonelosers.com/<p>
@@ -14,3 +14,4 @@ Parts needed:<br>
   &emsp;Optional:<br>
     &emsp;&emsp;Another 10-100K POT<br>
     &emsp;&emsp;Button<br>
+    &emsp;&emsp;USB port (either Micro or C) to power it, can also just power through the port on the nano<br>
