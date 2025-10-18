@@ -1,7 +1,7 @@
 This is the DTMF decoder I made for The Snow Plow Show / Phone Losers of America.<p>
 
 The Snow Plow Show ~ https://www.snowplowshow.com/<br>
-The Phone Losers of America ~ https://www.https://phonelosers.com/<p>
+The Phone Losers of America ~ https://www.phonelosers.com/<p>
 
 Everything is released under the GNU GPL v2<p>
 
