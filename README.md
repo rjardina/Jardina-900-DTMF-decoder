@@ -9,7 +9,7 @@ Parts needed:<br>
   &emsp;Arduino Nano either the 328 or 168, OR it could be easily reprogammed for another board too<br>
   &emsp;MT8870D DTMF Decoder Module<br>
   &emsp;HD44780 16x2 Display (either single color or RGB backlight)<br>
-  &emsp;10-100K POT (Contrast of display)<br>
+  &emsp;10-100K POT (Contrast for display)<br>
   &emsp;PCB either using the gerber files or DIY you're own using the diagram<br>
   &emsp;Optional:<br>
     &emsp;&emsp;Another 10-100K POT (used to adjust the brightness of display)<br>
